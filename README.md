@@ -51,9 +51,15 @@ You can access the google form with this link - https://docs.google.com/forms/d/
 ## Repository Structure
 
 Digital-Literacy-Portfolio/
+
 README.md
+
 task-1-presentation/
+
 task-2-portfolio/
+
 task-3-platforms/
+
 task-4-email-etiquette/
+
 task-5-cybercrime/
